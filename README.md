@@ -1,5 +1,7 @@
 # Entrust (Laravel4 Package)
 
+**For Uni Work**
+
 ![Entrust Poster](https://dl.dropbox.com/u/12506137/libs_bundles/entrust.png)
 
 [![Build Status](https://api.travis-ci.org/Zizaco/entrust.png)](https://travis-ci.org/Zizaco/entrust)
